@@ -1,5 +1,5 @@
 local version = "1.1"
-local AUTOUPDATE = false
+local AUTOUPDATE = true
 local UPDATE_HOST = "raw.github.com"
 local UPDATE_PATH = "/szczurekPROS/Common/master/AISpell.lua".."?rand="..math.random(1,10000)
 local UPDATE_FILE_PATH = LIB_PATH.."AISpell.lua"
