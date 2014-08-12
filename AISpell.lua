@@ -7,7 +7,7 @@ local UPDATE_URL = "https://"..UPDATE_HOST..UPDATE_PATH
 
 local function AutoupdaterMsg(msg) print("<font color=\"#6699ff\"><b>AISpell:</b></font> <font color=\"#FFFFFF\">"..msg..".</font>") end
 if AUTOUPDATE then
-	local ServerData = GetWebResult(UPDATE_HOST, "/szczurekPROS/Common/master/version/AISpell.version")
+	local ServerData = GetWebResult(UPDATE_HOST, "/szczurekPROS/Common/master/Version/AISpell.version")
 	if ServerData then
 		ServerVersion = type(tonumber(ServerData)) == "number" and tonumber(ServerData) or nil
 		if ServerVersion then
