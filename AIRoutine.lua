@@ -91,6 +91,3 @@ AIRoutine.test = function()
 	if project.x < -0.025 or project.x > 0.025 or project.z < -0.025 or project.z > 0.025 then return "AIRoutine.pos failed"  end
 	return "OK"
 end
-
---UPDATEURL=
---HASH=BAD444B833AE44F528CCAD1465C0C32D
