@@ -549,7 +549,3 @@ AddDrawCallback(function()
 		--check requests
 		for key, value in pairs(dataLite) do value() end
 	end)
-
-
---UPDATEURL=
---HASH=90CABCFDB3324AD70D09DF0492A5B45C
