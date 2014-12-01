@@ -165,6 +165,3 @@ AICondition.buffed = function(unit,name)
 	end
 	return false
 end
-
---UPDATEURL=
---HASH=6FAFC5E72315E8DDD3BC944AEBFEC442
