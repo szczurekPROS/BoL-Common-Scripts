@@ -204,7 +204,3 @@ AIFind.test = function()
 	elseif myHero.dead == false and AIFind.ally(myHero,50,true,true) == nil then return "AIFind.ally failed" 
 	else return "OK" end
 end
-
-
---UPDATEURL=
---HASH=F558090931C8083DD06D2E2616C28B42
