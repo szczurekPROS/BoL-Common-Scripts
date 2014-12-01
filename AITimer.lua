@@ -59,6 +59,3 @@ AddTickCallback(function()
 			value(time)
 		end
 	end)
-
---UPDATEURL=
---HASH=0EDAE0208BF8C68CF1D7AB8E84137DD4
