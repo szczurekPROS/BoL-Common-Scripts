@@ -178,6 +178,3 @@ end
 		if item ~= nil and CanUseSpell(item) == READY then return item
 		else return nil end
 	end
-
---UPDATEURL=
---HASH=60E5950E5DBCF5652A6C56E99955F609
