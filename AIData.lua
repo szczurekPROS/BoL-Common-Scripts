@@ -253,7 +253,3 @@ AddDeleteObjCallback(function(obj)
 			value(obj)
 		end
 	end)
-	
-
---UPDATEURL=
---HASH=124DF0B8443E5E5A160B59CAF4411CBF
