@@ -187,7 +187,3 @@ AIStat.test = function()
 	elseif AIStat.pvp({myHero},{}) ~= 1 then return "AIStat.pvp failed"
 	else return "OK" end
 end
-
-
---UPDATEURL=
---HASH=53266CFE5087E3FB398D895F12DF69F9
